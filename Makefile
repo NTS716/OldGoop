@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -lSDL2 -o GoopTest
+	g++ main.cpp GoopEngine.cpp -lSDL2 -o GoopTest
